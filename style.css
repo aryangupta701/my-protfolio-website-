@@ -20,5 +20,9 @@ width: 190px;
 h3:hover{
 
     background-color:rgba(51, 47, 46,0.7);
-    color:red;
+   
+}
+li:hover{
+    text-color: lightgreen;
+text-decoration: none;
 }
