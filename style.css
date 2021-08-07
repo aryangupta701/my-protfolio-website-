@@ -7,11 +7,14 @@ a:link
 }
 #menu-bar
 {
+    align: left;
 padding-top: 10px;
+
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-border: 1px solid white;
+
+
 width: 190px;
 }
 h3:hover{
