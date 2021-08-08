@@ -29,3 +29,10 @@ h3:hover{
 {text-decoration: none;
 color:#03bc55;
 }
+
+i{
+    margin:3px;
+}
+i:hover{
+    color:#03bc55;
+}
