@@ -20,5 +20,15 @@ width: 190px;
 h3:hover{
 
     background-color:rgba(51, 47, 46,0.7);
+  
    
+}
+a:hover {
+  
+    
+}
+
+#nav-br :hover
+{text-decoration: none;
+color:#03bc55;
 }
