@@ -30,9 +30,20 @@ h3:hover{
 color:#03bc55;
 }
 
-i{
+/* i{
+    margin:3px;
+} */
+#foot-logo:hover{
+    color:#03bc55;
+}
+
+#foot-logo
+{
     margin:3px;
 }
-i:hover{
-    color:#03bc55;
+
+#contact-logo
+{
+    margin: 5px;
+    
 }
