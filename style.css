@@ -1,3 +1,8 @@
+body{
+   
+    height: 100vh;
+}
+
 a:visited {
     color:white;
 }
@@ -39,11 +44,32 @@ color:#03bc55;
 
 #foot-logo
 {
-    margin:3px;
+    
+    margin:20px;
 }
 
 #contact-logo
 {
     margin: 5px;
-    
+
 }
+.footer
+{
+    display: flex;
+    flex-direction:row;
+    background-color: rgba(27, 25, 30,0.9);
+    width : 100%;
+    margin: 0;
+    height: 60px; 
+    line-height: 60px;
+    text-align: center;
+    
+
+}
+.container
+{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+
