@@ -32,14 +32,14 @@ h3:hover{
 
 #nav-br :hover
 {text-decoration: none;
-color:#03bc55;
+color:rgb(194, 119, 230);
 }
 
 /* i{
     margin:3px;
 } */
 #foot-logo:hover{
-    color:#03bc55;
+    color:rgb(194, 119, 230);
 }
 
 #foot-logo
@@ -76,7 +76,11 @@ color:#03bc55;
 
 
     #email:hover{
-        color:#03bc55;
+        color:rgb(194, 119, 230);
         text-decoration: none;
     }
  
+#contact-logo:hover 
+{
+    color:rgb(194, 119, 230);
+}
