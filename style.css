@@ -18,7 +18,7 @@ padding-top: 10px;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-width: 190px;
+width: 26vh;
 }
 h3:hover{
 
@@ -63,7 +63,7 @@ color:rgb(194, 119, 230);
     height: 60px; 
     line-height: 60px;
     text-align: center;
-    align-items: center;
+    justify-content: space-around;
     
 
 }
@@ -98,4 +98,21 @@ color:rgb(194, 119, 230);
 .skill
 {
     font-size: 20px;
+}
+
+.abou
+{
+    font-size: 20px;
+
+}
+.table-about-data
+{
+    font-size: 18px;
+    padding:12px;
+    border-bottom: 1px solid rgb(182, 189, 201,0.5);
+    box-shadow: 1px 1px rgba(91, 94, 104,0.1);
+}
+.table-about-row:hover {
+background-color:rgba(99, 91, 105,0.1);
+box-shadow: 2px 3px rgba(91, 94, 104,0.4) ;
 }
