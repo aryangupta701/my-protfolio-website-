@@ -14,12 +14,10 @@ a:link
 {
     
 padding-top: 10px;
-
+/* position: fixed; */
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-
-
 width: 190px;
 }
 h3:hover{
@@ -32,6 +30,7 @@ h3:hover{
 
 #nav-br :hover
 {text-decoration: none;
+    
 color:rgb(194, 119, 230);
 }
 
@@ -50,13 +49,14 @@ color:rgb(194, 119, 230);
 
 #contact-logo
 {
-    margin: 5px;
+    margin: 40px;
 
 }
 .footer
 {
     display: flex;
     flex-direction:row;
+    position: fixed;
     background-color: rgba(27, 25, 30,0.9);
     width : 100%;
     margin: 0;
@@ -72,6 +72,7 @@ color:rgb(194, 119, 230);
     flex-direction: row;
     margin: 0;
     padding-left: 0;
+    height: 92vh;
 }
 
 
@@ -83,4 +84,13 @@ color:rgb(194, 119, 230);
 #contact-logo:hover 
 {
     color:rgb(194, 119, 230);
+}
+#work-one{
+    font-size: 20px;
+}
+
+.blnk-spce
+{
+    width: 350px;
+    border-left: 3px solid rgb(36, 32, 37);
 }
