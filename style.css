@@ -117,3 +117,10 @@ color:rgb(194, 119, 230);
 background-color:rgba(99, 91, 105,0.1);
 box-shadow: 2px 3px rgba(91, 94, 104,0.4) ;
 }
+.skill-one
+{
+    width:300px;
+    margin: 20px;
+    border: 1px solid seashell;
+    height: 30vh;
+}
