@@ -112,6 +112,7 @@ color:rgb(194, 119, 230);
     border-bottom: 1px solid rgb(182, 189, 201,0.5);
     box-shadow: 1px 1px rgba(91, 94, 104,0.1);
 }
+
 .table-about-row:hover {
 background-color:rgba(99, 91, 105,0.1);
 box-shadow: 2px 3px rgba(91, 94, 104,0.4) ;
